@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  InternationalizationDe
+
+  Created by Le Thi Van Anh on 10/21/16.
+  Copyright © 2016 Le Thi Van Anh. All rights reserved.
+*/
+kUserName = "Tên";
+kPassword ="Mật khẩu";
+kName = "Tên:";
+kPwd = "Mật khẩu:";
+kLogin = "Đăng nhập";
+kEnglish = "Tiếng Anh" ;
+kVietNam = "Tiếng Việt" ;

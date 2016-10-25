@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "1hh-yV-k3J"; */
+"1hh-yV-k3J.normalTitle" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Vietnamese"; ObjectID = "A6c-Nu-a9w"; */
+"A6c-Nu-a9w.normalTitle" = "Vietnamese";
+
+/* Class = "UILabel"; text = "Login Form"; ObjectID = "IfQ-Vp-htk"; */
+"IfQ-Vp-htk.text" = "Form";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "LYC-id-dNj"; */
+"LYC-id-dNj.text" = "Name";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "MuA-vC-14b"; */
+"MuA-vC-14b.normalTitle" = "English";
+
+/* Class = "UILabel"; text = "Pass"; ObjectID = "TTu-s3-JJa"; */
+"TTu-s3-JJa.text" = "Pass";

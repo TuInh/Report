@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  InternationalizationDe
+
+  Created by Le Thi Van Anh on 10/25/16.
+  Copyright © 2016 Le Thi Van Anh. All rights reserved.
+*/
+kUserName = "Name";
+kPassword ="Pass";
+kName = "Name:";
+kPwd = "Pass:";
+kLogin = "Login";
+kEnglish = "English" ;
+kVietNam = "VietNamese" ;
